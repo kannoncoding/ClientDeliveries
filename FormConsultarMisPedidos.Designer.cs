@@ -1,4 +1,4 @@
-﻿namespace Entregas.Cliente
+﻿namespace CLIENTE
 {
     partial class FormConsultarMisPedidos
     {
